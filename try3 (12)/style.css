@@ -1,0 +1,22 @@
+* {
+  border: 1px solid;
+  background: lightcyan;
+}
+*:nth-child(odd) {
+  background: khaki;
+}
+*:only-child {
+  background: palegreen;
+}
+
+body {
+  margin: 0;
+}
+
+#header, #main, #footer, #menu, #links, #socials {
+  display: flex;
+}
+
+ul {
+  list-style: none;
+}
