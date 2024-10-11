@@ -1,0 +1,15 @@
+h1 {
+  padding-left: 100px;
+}
+
+ol {
+  column-width: 550px;
+
+  li {
+    break-inside: avoid;
+
+    h4 {
+      margin-bottom: 0;
+    }
+  }
+}
