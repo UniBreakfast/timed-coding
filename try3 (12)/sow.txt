@@ -1,0 +1,15 @@
+0 / 12 / 5
+
+Make a page template for a generic site!
+  HTML and CSS only
+  It should not require any other files
+  It shouldn't have too generic CSS rules
+  Code style "as they do it"
+  It should contain header, asides, section, footer
+  Calm palette, simple font
+  Header should contain logo, navigation, user panel
+  Main should contain two sidebars and main content block
+  Footer should contain contacts, links, socials
+
+Review
+  more emmet

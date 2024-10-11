@@ -1,0 +1,44 @@
+* {
+  background: lightcyan;
+  border: solid 1px;
+}
+
+*:nth-child(odd) {
+  background: palegreen;
+}
+
+*:only-child {
+  background: khaki;
+}
+
+
+#header {
+  display: flex;
+  min-height: 5rem;
+  text-align: center;
+}
+
+#logo {
+  min-width: 8rem;
+}
+
+#menu {
+  display: flex;
+  list-style: none;
+}
+
+#menu>li {
+  margin: 0 1rem;
+}
+
+#userpane {
+  min-width: 8rem;
+}
+
+#main {
+  min-height: 50vh;
+}
+
+#footer {
+  min-height: 7rem;
+}
