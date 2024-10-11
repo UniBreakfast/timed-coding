@@ -1,9 +1,11 @@
 h1 {
-  padding-left: 100px;
+  text-align: center;
 }
 
 ol {
+  max-width: 1200px;
   column-width: 550px;
+  margin: auto;
 
   li {
     break-inside: avoid;
